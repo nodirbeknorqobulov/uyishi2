@@ -1,0 +1,11 @@
+.r{
+    border-radius: 100px;
+    border: 5px solid rgb(red, green, blue);
+    background-color: red;
+}
+
+.t{
+    border-radius: 100px;
+    border: 5px solid rgb(red, green, blue);
+    background-color: red;
+}
